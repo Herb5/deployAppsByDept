@@ -1,0 +1,12 @@
+\\Server\SoftwareDeployment\
+│
+├── Configs
+│   ├── Base.json
+│   ├── Finance.json
+│   ├── Engineering.json
+│   ├── HR.json
+│   └── Marketing.json
+│
+├── Logs
+│
+└── Install-DepartmentApps.ps1

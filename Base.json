@@ -1,0 +1,14 @@
+{
+  "$schema": "https://aka.ms/winget-packages.schema.2.0.json",
+  "Sources": [
+    {
+      "Packages": [
+        { "PackageIdentifier": "Microsoft.Office" },
+        { "PackageIdentifier": "Microsoft.OneDrive" },
+        { "PackageIdentifier": "Google.Chrome" },
+        { "PackageIdentifier": "Microsoft.Teams" },
+        { "PackageIdentifier": "Microsoft.Edge" }
+      ]
+    }
+  ]
+}

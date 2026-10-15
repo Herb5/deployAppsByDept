@@ -1,0 +1,7 @@
+How to Run Apps By Department Deployment
+
+.\Install-DepartmentApps.ps1 -Department Finance
+
+or 
+
+.\Install-DepartmentApps.ps1 -Department Engineering
